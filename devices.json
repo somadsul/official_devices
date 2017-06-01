@@ -549,7 +549,15 @@
     "maintainer_name": "Albert Llurba (allurba)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4387106",
     "xda_thread": "https://forum.xda-developers.com/android/development/rom-aospextended-rom-v4-2-bq-aquaris-x5-t3611654"
+   },
+  {
+    "name": "Samsung Galaxy S5 G900H",
+    "brand": "Samsung",
+    "codename": "k3gxx",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=171064",
+    "maintainer_name": "Som Adsul (somadsul)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5693847",
+    "xda_thread": "https://forum.xda-developers.com/galaxy-s5/galaxy-s-5-android-development-exynos/rom-aospextended-rom-v4-1-t3594859"
    }
-
 
  ]
